@@ -1,2 +1,2 @@
-# cp4-edge
-Checkpoint 4 - Edge
+# Smart Lamp (Checkpoint 4 - Edge)
+Link para simulação: [Simulação no Wokwi](https://wokwi.com/projects/407859793705143297)
